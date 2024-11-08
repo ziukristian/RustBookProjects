@@ -1,0 +1,8 @@
+[workspace]
+members = [
+    "./guessing_game",
+    "./hello_cargo",
+
+
+]
+resolver = "2"
