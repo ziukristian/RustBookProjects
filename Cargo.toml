@@ -1,7 +1,7 @@
 [workspace]
 members = [
     "./guessing_game",
-    "./hello_cargo", "variables",
+    "./hello_cargo", "structs", "variables",
 
 
 ]
